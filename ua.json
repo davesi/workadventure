@@ -23,7 +23,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map-desert.json"
+                 "value":".\/map-desert.json#from-ua-start"
                 }],
          "type":"tilelayer",
          "visible":true,
