@@ -938,11 +938,11 @@
         {
          "columns":1,
          "firstgid":1347,
-         "image":"..\/desert-workadventure\/ua_logo-bottom.png",
+         "image":"desert-workadventure\/ua-logo-bottom.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
-         "name":"ua_logo-bottom",
+         "name":"ua-logo-bottom",
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
