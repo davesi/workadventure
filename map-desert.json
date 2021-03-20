@@ -41,7 +41,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sidiprojects.us\/beardown.mp3"
+                 "value":"https:\/\/sidiprojects.us\/beardown.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
