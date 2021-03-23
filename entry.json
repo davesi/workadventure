@@ -259,7 +259,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/tmp\/workadventure-map-forumphp\/tilesets\/fantasy.png",
+         "image":"desert-workadventure\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -5672,7 +5672,7 @@
         {
          "columns":12,
          "firstgid":5129,
-         "image":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/tmp\/workadventure-map-forumphp\/tilesets\/wall_paintings.png",
+         "image":"desert-workadventure\/wall_paintings.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
