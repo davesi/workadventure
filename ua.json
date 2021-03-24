@@ -23,7 +23,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map-desert.json#from-ua-start"
+                 "value":"desert#from-ua-start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -41,7 +41,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/bus_home.json#from_ua_start"
+                 "value":"trolley#from_ua_start"
                 }],
          "type":"tilelayer",
          "visible":true,

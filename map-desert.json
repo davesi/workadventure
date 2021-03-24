@@ -77,7 +77,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/ua.json"
+                 "value":"ua-room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -95,7 +95,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/entry.json#from_desert_start"
+                 "value":"entry#from_desert_start"
                 }],
          "type":"tilelayer",
          "visible":true,

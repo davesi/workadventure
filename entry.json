@@ -39,7 +39,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map-desert.json#from-entry-start"
+                 "value":"desert#from-entry-start"
                 }],
          "type":"tilelayer",
          "visible":true,
