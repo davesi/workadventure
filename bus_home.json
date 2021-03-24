@@ -175,7 +175,7 @@
         {
          "name":"exitSceneUrl",
          "type":"string",
-         "value":".\/entry.json#from-trolley-start"
+         "value":"https:\/\/play.workadventu.re\/@\/herd\/vaccine-distribution-challenge\/entry#from-trolley-start"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.2.1",

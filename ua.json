@@ -23,7 +23,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"desert#from-ua-start"
+                 "value":"https:\/\/play.workadventu.re\/@\/herd\/vaccine-distribution-challenge\/desert#from-ua-start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -41,7 +41,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"trolley#from_ua_start"
+                 "value":"https:\/\/play.workadventu.re\/@\/herd\/vaccine-distribution-challenge\/trolley#from_ua_start"
                 }],
          "type":"tilelayer",
          "visible":true,
