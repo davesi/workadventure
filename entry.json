@@ -67,7 +67,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"794\" height=\"447\" src=\"https:\/\/www.youtube.com\/embed\/mUCAljc_zCI\" ti"
+                 "value":"https:\/\/www.youtube.com\/embed\/mUCAljc_zCI"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
