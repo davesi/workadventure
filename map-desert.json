@@ -303,7 +303,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/herd\/vaccine-distribution-challenge\/entry#from_desert_start"
+                 "value":"https:\/\/play.workadventu.re\/@\/herd\/vaccine-distribution-challenge\/entry2#from_desert_start"
                 }],
          "type":"tilelayer",
          "visible":true,
